@@ -8,7 +8,6 @@ This repository contains the code for real-time thumbs-up and thumbs-down detect
 ## Prerequisites
 - Python 3.6 or above
 - OpenCV
-- PyTorch
 - Ultralytics
 - Numpy
 
