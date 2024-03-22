@@ -8,7 +8,7 @@ cap.set(3, 256)
 cap.set(3 , 256)
 
 # model
-model = YOLO("./models/best.pt")
+model = YOLO("./models/cYOLOv8.pt")
 
 # object classes
 classNames = ['Thumsdown', 'Thumsup']
